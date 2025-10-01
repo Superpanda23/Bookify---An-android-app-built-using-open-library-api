@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bookify</string>
+
+    <string name="book_detail_title">Book Detail</string>
+    <string name="back_to_book_list">Back to book list</string>
+    <string name="empty">Empty</string>
+    <string name="work_Key">workKey</string>
+
+    <string name="filter">Filter</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="search_books">Search Books…</string>
+
+    <string name="no_authors">No authors</string>
+    <string name="unknown_year">Unknown Year</string>
+    <string name="show_less">Show less</string>
+    <string name="read_more">Read more</string>
+
+    <string name="first_publish_year_label">First Publish Year:</string>
+    <string name="isbn_10_label">ISBN 10:</string>
+    <string name="isbn_13_label">ISBN 13:</string>
+    <string name="no_details_available">No details available</string>
+
+    <string name="download_pdf">Download PDF</string>
+    <string name="book_cannot_be_download">Book cannot be download.</string>
+    <string name="could_not_reach_server">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="unexpected_error_occurred">An unexpected error occurred.</string>
+</resources>
