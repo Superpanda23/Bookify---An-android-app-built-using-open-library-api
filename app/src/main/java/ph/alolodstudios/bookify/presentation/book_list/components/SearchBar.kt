@@ -53,7 +53,7 @@ fun BookSearchBar(
 
     SearchBar(
         modifier = modifier.fillMaxWidth().then(
-            if (!expanded) Modifier.padding(Dimens.MediumPadding)
+            if (!expanded) Modifier.padding(horizontal = Dimens.MediumPadding)
             else Modifier
         ),
         expanded = expanded,
