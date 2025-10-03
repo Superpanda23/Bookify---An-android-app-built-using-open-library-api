@@ -11,7 +11,8 @@ Bookify is a modern Android application built with Jetpack Compose that allows u
 *   **Clean, Modern UI**: A responsive and intuitive user interface built entirely with Jetpack Compose and Material 3 design principles.
 
 ## 📸 Screenshots
-(This is a great section to add later. Once you have the app running, take some screenshots of the main screens and add them here to visually showcase your work.)
+
+<img width="3780" height="1890" alt="Bookify_Screenshots" src="https://github.com/user-attachments/assets/02d27cb7-457f-4531-a742-75f99567ef23" />
 
 ## 🛠️ Built With
 
